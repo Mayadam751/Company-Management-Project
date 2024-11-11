@@ -1,0 +1,12 @@
+E:\Company Management Project\CompanyManagement.DAL\bin\Debug\net8.0\CMApplicationDbContext.DAL.deps.json
+E:\Company Management Project\CompanyManagement.DAL\bin\Debug\net8.0\CMApplicationDbContext.DAL.dll
+E:\Company Management Project\CompanyManagement.DAL\bin\Debug\net8.0\CMApplicationDbContext.DAL.pdb
+E:\Company Management Project\CompanyManagement.DAL\obj\Debug\net8.0\CMApplicationDbContext.DAL.csproj.AssemblyReference.cache
+E:\Company Management Project\CompanyManagement.DAL\obj\Debug\net8.0\CMApplicationDbContext.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Company Management Project\CompanyManagement.DAL\obj\Debug\net8.0\CMApplicationDbContext.DAL.AssemblyInfoInputs.cache
+E:\Company Management Project\CompanyManagement.DAL\obj\Debug\net8.0\CMApplicationDbContext.DAL.AssemblyInfo.cs
+E:\Company Management Project\CompanyManagement.DAL\obj\Debug\net8.0\CMApplicationDbContext.DAL.csproj.CoreCompileInputs.cache
+E:\Company Management Project\CompanyManagement.DAL\obj\Debug\net8.0\CMApplicationDbContext.DAL.dll
+E:\Company Management Project\CompanyManagement.DAL\obj\Debug\net8.0\refint\CMApplicationDbContext.DAL.dll
+E:\Company Management Project\CompanyManagement.DAL\obj\Debug\net8.0\CMApplicationDbContext.DAL.pdb
+E:\Company Management Project\CompanyManagement.DAL\obj\Debug\net8.0\ref\CMApplicationDbContext.DAL.dll

@@ -1,0 +1,12 @@
+E:\Company Management Project\Company-Management.BLL\bin\Debug\net8.0\Company-Management.BLL.deps.json
+E:\Company Management Project\Company-Management.BLL\bin\Debug\net8.0\Company-Management.BLL.dll
+E:\Company Management Project\Company-Management.BLL\bin\Debug\net8.0\Company-Management.BLL.pdb
+E:\Company Management Project\Company-Management.BLL\obj\Debug\net8.0\Company-Management.BLL.csproj.AssemblyReference.cache
+E:\Company Management Project\Company-Management.BLL\obj\Debug\net8.0\Company-Management.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Company Management Project\Company-Management.BLL\obj\Debug\net8.0\Company-Management.BLL.AssemblyInfoInputs.cache
+E:\Company Management Project\Company-Management.BLL\obj\Debug\net8.0\Company-Management.BLL.AssemblyInfo.cs
+E:\Company Management Project\Company-Management.BLL\obj\Debug\net8.0\Company-Management.BLL.csproj.CoreCompileInputs.cache
+E:\Company Management Project\Company-Management.BLL\obj\Debug\net8.0\Company-Management.BLL.dll
+E:\Company Management Project\Company-Management.BLL\obj\Debug\net8.0\refint\Company-Management.BLL.dll
+E:\Company Management Project\Company-Management.BLL\obj\Debug\net8.0\Company-Management.BLL.pdb
+E:\Company Management Project\Company-Management.BLL\obj\Debug\net8.0\ref\Company-Management.BLL.dll

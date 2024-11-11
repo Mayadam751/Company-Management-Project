@@ -1,0 +1,12 @@
+E:\Company Management Project\Company-Management.core\bin\Debug\net8.0\Company-Management.core.deps.json
+E:\Company Management Project\Company-Management.core\bin\Debug\net8.0\Company-Management.core.dll
+E:\Company Management Project\Company-Management.core\bin\Debug\net8.0\Company-Management.core.pdb
+E:\Company Management Project\Company-Management.core\obj\Debug\net8.0\Company-Management.core.csproj.AssemblyReference.cache
+E:\Company Management Project\Company-Management.core\obj\Debug\net8.0\Company-Management.core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Company Management Project\Company-Management.core\obj\Debug\net8.0\Company-Management.core.AssemblyInfoInputs.cache
+E:\Company Management Project\Company-Management.core\obj\Debug\net8.0\Company-Management.core.AssemblyInfo.cs
+E:\Company Management Project\Company-Management.core\obj\Debug\net8.0\Company-Management.core.csproj.CoreCompileInputs.cache
+E:\Company Management Project\Company-Management.core\obj\Debug\net8.0\Company-Management.core.dll
+E:\Company Management Project\Company-Management.core\obj\Debug\net8.0\refint\Company-Management.core.dll
+E:\Company Management Project\Company-Management.core\obj\Debug\net8.0\Company-Management.core.pdb
+E:\Company Management Project\Company-Management.core\obj\Debug\net8.0\ref\Company-Management.core.dll
